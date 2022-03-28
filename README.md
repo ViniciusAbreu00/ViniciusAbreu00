@@ -1,7 +1,7 @@
 ### Olá! Me chamo Vinicius
 
 - 🔭 Hoje trabalho como desenvolvedor front-end
-- 🌱 Atualmente estudando React e Typescript
+- 🌱 Atualmente estudando React, Typescript e Java
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
