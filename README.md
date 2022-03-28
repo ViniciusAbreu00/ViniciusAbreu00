@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando React, Typescript e Java
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ViniciusAbreu00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusAbreu00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAbreu00&layout=compact&langs_count=7&theme=dark"/>
 </div>
